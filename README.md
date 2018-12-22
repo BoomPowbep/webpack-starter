@@ -1,4 +1,4 @@
-<img align="center" width="200px" src="http://docs.mickaeldebalme.com/img/Logo-1.png" alt="CatWeb Logo" />
+<img align="center" width="150px" src="http://docs.mickaeldebalme.com/img/Logo-1.svg" alt="CatWeb Logo" />
 
 # webpack-starter
 
