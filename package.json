@@ -1,0 +1,25 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Webpack configuration that uses Encore.",
+  "main": "index.js",
+  "scripts": {
+    "prod": "encore production",
+    "watch": "encore dev --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoomPowbep/webpack-starter.git"
+  },
+  "author": "Mickaël Debalme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoomPowbep/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/BoomPowbep/webpack-starter#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.22.2",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}
