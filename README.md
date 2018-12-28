@@ -1,4 +1,4 @@
-<img align="center" width="150px" src="http://docs.mickaeldebalme.com/img/Logo-1.svg" alt="CatWeb Logo" />
+<img align="center" width="350px" src="http://smart.webstratton.com/img/Logo-big-black.png" alt="Web Stratton Logo" />
 
 # webpack-starter
 First, install dependencies.
