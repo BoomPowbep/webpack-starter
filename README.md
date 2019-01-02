@@ -1,26 +1,43 @@
 <img align="center" width="350px" src="http://smart.webstratton.com/img/Logo-big-black.png" alt="Web Stratton Logo" />
 
 # webpack-starter
+
+## Setting up
 First, install dependencies.
-```
-npm install
-```
+
+	npm install
 
 ## Usage
+
+**The project needs to be on a server root directory to work properly.**
+
+### Overview
+
 Use the following entry points for your scripts and styles:
 - **src/js/main.js**
 - **src/scss/style.scss**
 
 **index.html** is located in the **public** folder. Imports are already set up.
 
+**src/js/App.js** contains a starter class and is instanciated by default in **main.js**.
+
+**src/scss/style.scss** already includes two files located in the **essentials** folder: **variables.scss** and **main.scss**.
+
+### Tips & tricks
+
+If you need to call an asset file (image, font, etc) from your scss, create a dedicated folder in **src/scss** then refer to it like if you were in the **src/scss/style.scss** file (whatever where you actually are). For example:
+
+    background-image: url('./images/yourImage.svg');
+
+An asset file called from the HTML must be located in **public/theTypeOfAsset**. Example:
+
+	<img alt="Your Image Called From HTML" src="images/yourImageCalledFromHTML.png">
 
 ## Run
 #### Watch for development
-```
-npm run watch
-```
+
+	npm run watch
 
 #### Build for production
-```
-npm run prod
-```
+
+	npm run prod
