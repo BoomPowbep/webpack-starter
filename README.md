@@ -39,3 +39,6 @@ An asset file called from the HTML must be located in **public/theTypeOfAsset**.
 #### Build for production
 
 	npm run prod
+
+## Credits
+This project is based on [sample-project](https://github.com/Hugotgot/sample-project) by [Hugotgot](https://github.com/Hugotgot).
