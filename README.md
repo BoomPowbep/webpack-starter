@@ -7,7 +7,7 @@ First, install dependencies.
 
 ## Usage
 
-**The public folder needs to be on a server root directory to work properly.**
+**The public folder needs to be on a server root directory in order to work properly.**
 
 ### Overview
 
