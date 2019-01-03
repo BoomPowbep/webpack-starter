@@ -9,7 +9,7 @@ First, install dependencies.
 
 ## Usage
 
-**The project needs to be on a server root directory to work properly.**
+**The public folder needs to be on a server root directory to work properly.**
 
 ### Overview
 
