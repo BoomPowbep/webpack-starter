@@ -1,5 +1,3 @@
-<img align="center" width="350px" src="http://smart.webstratton.com/img/Logo-big-black.png" alt="Web Stratton Logo" />
-
 # webpack-starter
 
 ## Setting up
