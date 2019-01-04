@@ -1,5 +1,7 @@
 # webpack-starter
 
+Webpack starter that includes ES6 and Scss.
+
 ## Setting up
 First, install dependencies.
 
