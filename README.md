@@ -5,7 +5,7 @@ Webpack starter that includes ES6 and Scss.
 ## Setting up
 First, install dependencies.
 
-	npm install
+	npm i
 
 ## Usage
 
@@ -36,7 +36,7 @@ An asset file called from the HTML must be located in **public/theTypeOfAsset**.
 ## Run
 #### Watch for development
 
-	npm run watch
+	npm run dev
 
 #### Build for production
 
