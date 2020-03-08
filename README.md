@@ -33,6 +33,8 @@ An asset file called from the HTML must be located in **public/theTypeOfAsset**.
 
 	<img alt="Your Image Called From HTML" src="images/yourImageCalledFromHTML.png">
 
+In order for this to work, your site root **must** be at root of server. Example: *http://localhost:3000* is fine but *http://localhost/mySite/trunk* won't work.
+
 ## Run
 #### Watch for development
 
